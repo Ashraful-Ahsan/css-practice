@@ -1,0 +1,16 @@
+h1{}
+
+h2{}
+    
+p{}
+
+#header{
+    background-color: chartreuse;padding: 10px; font-size: 55px;
+}
+.body{background-color:#ddd; color: green padding: 23px; font-size: 55px;
+    background-image: url(bird.jpg); background-size: 200px 100px; background-repeat: no-repeat;background-position: center center; background-attachment:fixed;; 
+}
+
+
+   
+    .body{background-color: #ddd url(bird.jpg) no-repeat center center }
